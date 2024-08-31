@@ -25,6 +25,7 @@ This repository also includes several projects that will provide you with practi
 
 ## How to Use This Repository
 **Theory Sections:** Start with the theoretical notebooks to understand the fundamental concepts of EDA.
+
 **Hands-On Projects:** Apply what you've learned through the projects to reinforce your understanding and gain practical experience.
 
 ## Contributing
