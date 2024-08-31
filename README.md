@@ -23,3 +23,9 @@ This repository also includes several projects that will provide you with practi
    ```bash
    git clone https://github.com/Harmain-Ali/Complete-EDA-Guide/.git
 
+## How to Use This Repository
+**Theory Sections:** Start with the theoretical notebooks to understand the fundamental concepts of EDA.
+**Hands-On Projects:** Apply what you've learned through the projects to reinforce your understanding and gain practical experience.
+
+## Contributing
+Contributions are welcome! If you have any suggestions, improvements, or additional projects that you'd like to share, feel free to open a pull request or issue.
